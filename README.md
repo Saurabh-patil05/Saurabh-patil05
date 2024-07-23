@@ -1,7 +1,9 @@
 Hi there, I’m Saurabh 👋
 
 About Me
-I am a dynamic software engineer with a data-driven analytical mindset, specializing in Artificial Intelligence, Machine learning and cloud computing. I bring extensive experience in collaborating across diverse teams to ensure data accuracy and integrity, delivering actionable insights effectively.
+
+Engineering graduate eager to drive innovative research in AI/ML, leveraging my analytical skills and technical
+expertise to solve real-world problems and contribute to the academic and industry communities.
 
 🔧 Technologies & Tools
 	•	Programming Languages: Python, Java, C++ 
@@ -13,11 +15,26 @@ I am a dynamic software engineer with a data-driven analytical mindset, speciali
  Here are some of the projects I’ve been working on:
 
  1. Real-Time Anomaly Detection in Cloud Platforms Using Dataflow and BigQuery ML
-	•	Description: This project provides a reference implementation of a Cloud Dataflow streaming pipeline that integrates with BigQuery ML and Cloud AI Platform to detect anomalies. It aids cloud platform administrators in monitoring and analyzing cloud behavior to increase reliability by detecting unanticipated system activity, allowing for preventative measures before system breakdowns or service failures. The implementation utilizes Dataflow for feature extraction and real-time outlier detection, validated on over 20TB of data.
+    
+	•	Description:
+
+	        •	Reference Implementation: Cloud Dataflow streaming pipeline integrated with BigQuery ML and Cloud AI Platform for anomaly detection.
+		•	Purpose: Assists cloud platform administrators in monitoring and analyzing cloud behavior to enhance reliability.
+		•	Function: Detects unanticipated system activity, enabling preventative measures before system breakdowns or service failures.
+		•	Key Components:
+		•	Dataflow for feature extraction
+		•	Real-time outlier detection
+		•	Validation: Tested on over 20TB of data.
+
 	•	Technologies: Google Cloud Dataflow, BigQuery ML, Cloud AI Platform, Python, TensorFlow, Apache Beam
 
- 2. AI-Powered Image Caption Generator
-	•	Description: This project leverages the power of image processing and deep learning to generate engaging captions for images, crucial for social media and digital marketing. By managing large datasets of correlated photos and captions, the system comprehends images and uses AI to produce relevant and compelling captions. The project implements CNN (Convolutional Neural Network) and RNN (Recurrent Neural Network) with BEAM Search to create an advanced image caption generator. This complex project is not for beginners and involves extensive Python coding for Big Data.
+ 3. AI-Powered Image Caption Generator
+    
+	•	Description:
+
+	        •	Objective: Leverages image processing and deep learning to generate engaging captions for images, essential for social media and digital marketing.
+		•	Function: Manages large datasets of correlated photos and captions to comprehend images and use AI for generating relevant and compelling captions.
+
 	•	Technologies: Python, TensorFlow, PyTorch, CNN, RNN, BEAM Search, MSCOCO, Flickr8k, Flickr30k, PASCAL 1K, AI Challenger Dataset, STAIR Captions
 
 📫 Get in Touch
