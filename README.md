@@ -46,8 +46,11 @@ I'm a student pursuing MSc in Computer Science(Negotiated Learning) from Univers
 			Python, TensorFlow, PyTorch, CNN, RNN, BEAM Search, MSCOCO, Flickr8k, Flickr30k, PASCAL 1K, AI Challenger Dataset, STAIR Captions
 
 📫 Get in Touch
+
 	•	Email: saurabhpatilssp5@gmail.com
+ 
 	•	LinkedIn: www.linkedin.com/in/saurabh-patil-4543a5187
+ 
 	•	Portfolio: [Your Portfolio Website]
 
  
