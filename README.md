@@ -6,12 +6,17 @@ Engineering graduate eager to drive innovative research in AI/ML, leveraging my 
 expertise to solve real-world problems and contribute to the academic and industry communities.
 
 🔧 Technologies & Tools
+
 	•	Programming Languages: Python, Java, C++ 
+ 
 	•	Frameworks & Libraries: TensorFlow, PyTorch, Scikit-learn, Keras
+ 
 	•	Tools & Platforms: Git, Docker, AWS, PowerBi, Tableau
+ 
 	•	Databases: MySQL, PostgreSQL, MongoDB
 
  🌟 Projects
+ 
  Here are some of the projects I’ve been working on:
 
  1. Real-Time Anomaly Detection in Cloud Platforms Using Dataflow and BigQuery ML
