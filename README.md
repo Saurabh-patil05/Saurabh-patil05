@@ -23,13 +23,13 @@ expertise to solve real-world problems and contribute to the academic and indust
     
 	•	Description:
 
-	        •	Reference Implementation: Cloud Dataflow streaming pipeline integrated with BigQuery ML and Cloud AI Platform for anomaly detection.
-		•	Purpose: Assists cloud platform administrators in monitoring and analyzing cloud behavior to enhance reliability.
-		•	Function: Detects unanticipated system activity, enabling preventative measures before system breakdowns or service failures.
-		•	Key Components:
-		•	Dataflow for feature extraction
-		•	Real-time outlier detection
-		•	Validation: Tested on over 20TB of data.
+		   •	Reference Implementation: Cloud Dataflow streaming pipeline integrated with BigQuery ML and Cloud AI Platform for anomaly detection.
+		   •	Purpose: Assists cloud platform administrators in monitoring and analyzing cloud behavior to enhance reliability.
+		   •	Function: Detects unanticipated system activity, enabling preventative measures before system breakdowns or service failures.
+		   •	Key Components:
+		   •	Dataflow for feature extraction
+		   •	Real-time outlier detection
+		   •	Validation: Tested on over 20TB of data.
 
 	•	Technologies: Google Cloud Dataflow, BigQuery ML, Cloud AI Platform, Python, TensorFlow, Apache Beam
 
