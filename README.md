@@ -47,11 +47,11 @@ I'm a student pursuing MSc in Computer Science(Negotiated Learning) from Univers
 
 📫 Get in Touch
 
-	•	Email: saurabhpatilssp5@gmail.com
+•	Email: saurabhpatilssp5@gmail.com
  
-	•	LinkedIn: www.linkedin.com/in/saurabh-patil-4543a5187
+•	LinkedIn: www.linkedin.com/in/saurabh-patil-4543a5187
  
-	•	Portfolio: [Your Portfolio Website]
+•	Portfolio: [Your Portfolio Website]
 
  
 <!---
