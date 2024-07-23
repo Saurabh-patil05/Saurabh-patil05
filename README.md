@@ -2,8 +2,7 @@ Hi there, I’m Saurabh 👋
 
 About Me
 
-Engineering graduate eager to drive innovative research in AI/ML, leveraging my analytical skills and technical
-expertise to solve real-world problems and contribute to the academic and industry communities.
+I'm a student pursuing MSc in Computer Science(Negotiated Learning) from University College Dublin, eager to drive innovative research in AI/ML and Cloud computing, leveraging my analytical skills and technical expertise to solve real-world problems and contribute to the academic and industry communities.
 
 🔧 Technologies & Tools
 
