@@ -31,16 +31,20 @@ expertise to solve real-world problems and contribute to the academic and indust
 		   •	Real-time outlier detection
 		   •	Validation: Tested on over 20TB of data.
 
-	•	Technologies: Google Cloud Dataflow, BigQuery ML, Cloud AI Platform, Python, TensorFlow, Apache Beam
+	•	Technologies:
+
+			Google Cloud Dataflow, BigQuery ML, Cloud AI Platform, Python, TensorFlow, Apache Beam
 
  3. AI-Powered Image Caption Generator
     
 	•	Description:
 
-	        •	Objective: Leverages image processing and deep learning to generate engaging captions for images, essential for social media and digital marketing.
-		•	Function: Manages large datasets of correlated photos and captions to comprehend images and use AI for generating relevant and compelling captions.
+		   •	Objective: Leverages image processing and deep learning to generate engaging captions for images, essential for social media and digital marketing.
+		   •	Function: Manages large datasets of correlated photos and captions to comprehend images and use AI for generating relevant and compelling captions.
 
-	•	Technologies: Python, TensorFlow, PyTorch, CNN, RNN, BEAM Search, MSCOCO, Flickr8k, Flickr30k, PASCAL 1K, AI Challenger Dataset, STAIR Captions
+	•	Technologies:
+
+			Python, TensorFlow, PyTorch, CNN, RNN, BEAM Search, MSCOCO, Flickr8k, Flickr30k, PASCAL 1K, AI Challenger Dataset, STAIR Captions
 
 📫 Get in Touch
 	•	Email: saurabhpatilssp5@gmail.com
