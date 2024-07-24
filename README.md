@@ -18,21 +18,17 @@ I'm a student pursuing MSc in Computer Science(Negotiated Learning) from Univers
  
  Here are some of the projects I’ve been working on:
 
- 1. Real-Time Anomaly Detection in Cloud Platforms Using Dataflow and BigQuery ML
+ 1. QR Code generation with Stable Diffusion
     
 	•	Description:
 
-		   •	Reference Implementation: Cloud Dataflow streaming pipeline integrated with BigQuery ML and Cloud AI Platform for anomaly detection.
-		   •	Purpose: Assists cloud platform administrators in monitoring and analyzing cloud behavior to enhance reliability.
-		   •	Function: Detects unanticipated system activity, enabling preventative measures before system breakdowns or service failures.
-		   •	Key Components:
-		   •	Dataflow for feature extraction
-		   •	Real-time outlier detection
-		   •	Validation: Tested on over 20TB of data.
+		•	A QR code generator powered by generative AI automates the creation of Quick Response (QR) codes.
+		•	It streamlines data sharing and accessibility by using algorithms to encode data into QR codes.
+		•	These AI-driven systems make linking physical objects to digital content easier.
 
 	•	Technologies:
 
-			Google Cloud Dataflow, BigQuery ML, Cloud AI Platform, Python, TensorFlow, Apache Beam
+			Stable diffusion, ControlNet, qrcode
 
  3. AI-Powered Image Caption Generator
     
